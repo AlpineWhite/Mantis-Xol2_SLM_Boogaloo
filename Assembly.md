@@ -8,3 +8,4 @@
 | Tap six M3 holes in the *Carriage* as indicated.  |  ![Carriage M3 Holes](/Images/Assembly/carriage_tap6x_m3.PNG "Carriage M3 Tapped Holes") |
 | Tap three M3 holes in the *Hotend Mount* for the extruder mounting. |  ![Hotend Extruder Tapping](/Images/Assembly/holder_tap_3x_m3.PNG "Extruder M3 Threads") |
 | Finally, tap four M2.5 holes in the *Hotend Mount* as indicated for fan mounting. | ![Hotend Fan Tapping](/Images/Assembly/holder_tap_4x_m2_5.PNG "Hotend Fan Tapped Holes")  |
+| Ensure the dogbone solid surface is holding the belt smooth face. | ![Exploded View](/Images/Assembly/component_stackup.PNG "Exploded View")  |
