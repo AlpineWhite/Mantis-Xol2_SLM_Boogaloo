@@ -1,17 +1,10 @@
-# Assembly of YOUR NEW Mantis Xol 2 Toolhead
+# Assembly of YOUR NEW SLMantis Xol 2 Toolhead
 
 | Instruction |   |
 | ------------ | ------------ |
-| Insert **M3** Heatset Inserts into the *Carriage* as indicated. For best results, insert almost completely with a soldering iron before finishing by pressing against a flat, heat resistant surface. |  ![Carriage M3 Heatsets](/Images/Assembly/carriagem3heatset.png "Carriage M3 Heatsets") |
-| Insert **M3** Heatset Inserts into the *Hotend Mount* as indicated. Judicious use of the tip mentioned in the previous step will be helpful. | ![Hotend Mount M3 Heatsets](/Images/Assembly/hotendmountm3heatset.png "Hotend Mount M3 Heatsets")  |
-| Insert **M2** Heatset Inserts into the *Hotend Mount* as indicated. For the upper Heatset Inserts, you may use the table method if you're careful not to deform the plastic. For the lower Heatset Inserts, this is less recommended. You may use one of the M2x20s to ream the holes in Xol's boots as the displaced plastic may now act as an obstruction in a later step. |  ![Hotend Mount M2 Heatsets](/Images/Assembly/hotendmountm2heatset.png "Hotend Mount M2 Heatsets")  |
-| Insert **M2** Heatset Inserts into the faceplate as indicated. **Note:** The upper Heatset Inserts here are not flat against the plastic part. Attempting to use the flat surface tip mentioned in previous steps will ruin your day. Do your best to make the upper Heatset Inserts parallel to the lower. |  ![Front Plate M2 Heatsets](/Images/Assembly/frontplatem2heatsets.png "Front Plate M2 Heatsets")  |
-| Prepare the wiring for the Z probe of your choice. Follow instructions for your specific selection as provided in that solution's repo. The Heatset Insert tip may or may not be helpful during this step. | This image space left intentionally blank.  |
-| Attach your hotend of choice (Rapido shown here) using the corresponding screws for your selection. For Rapido, ensure that your heater and thermistor wiring exit toward the rear left. There is no application for the aforementioned Heatset Insert tip during this step. |  ![Hotend Install](/Images/Assembly/hotendinstall.png "Hotend Install") |
-| Attach the *Hotend Mount* to the *Carriage* as indicated, using M3X20 screws in the upper positions and M3x8 in the lower. **Note:** Don't crush your wiring. | ![Hotend Mount to Carriage](/Images/Assembly/hotendmounttocarriage.png "Hotend Mount to Carriage")  |
-| Fasten the *Faceplate* and *2510 Hotend Fan* to the *Hotend Mount* with M2.5x20 screws as indicated. For XG, there will only be 2. Ensure that the *Hotend Fan* wiring exits toward the left as indicated. |   ![Front Plate Assembly](/Images/Assembly/frontplateassembly.png "Front Plate Assembly") |
-| Fasten the *4010 Parts Cooling Fans* to the *Hotend Mount* as indicated using M2x8 in the rear and M2x12 in the front.  |   ![Top Blower Screws](/Images/Assembly/topblowerscrews.png "Top Blower Screws")  |
-| Fasten the *4010 Parts Cooling Fans* and attach *Ducts* as indicated using M2x20 in the rear and M2x12 in the front.  |   ![Bottom Blower Screws and Duct Install](/Images/Assembly/ductinstall.png "Bottom Blower Screws and Duct Install")  |
-| Attach your selected *Extruder* with corresponding PTFE.  | This image space left intentionally blank.  |
-| Secure your wiring with zipties.  | This image space left intentionally blank.  |
-| You're done! Congratulations!  |  ![45 Degree Preview](/Images/Assembly/45degreeview1.png "45 Degree Preview") |
+| Tap six M2 holes in the *Carriage* as indicated. The bottom four are for probe mounting and the rear two are for microswitches.  | ![Carriage M2 Holes](/Images/Assembly/carriage_tap6x_m2.PNG "Carriage M2 Tapped Holes")  |
+| Tap two M2 holes in the *Dogbone* as indicated for belt pretensioning.  |  ![Dogbone M2 Holes](/Images/Assembly/tap_to_M2_dogbone.PNG "Belt Tensioning M2 Tapped Holes")  |
+| Tap four M2 holes in the *Hotend Mount* for part cooling fans. |  ![Hotend Fan M2](/Images/Assembly/holder_tap_4x_m2.PNG "Cooling Fan Tapped Holes")  |
+| Tap six M3 holes in the *Carriage* as indicated.  |  ![Carriage M3 Holes](/Images/Assembly/carriage_tap6x_m3.PNG "Carriage M3 Tapped Holes") |
+| Tap three M3 holes in the *Hotend Mount* for the extruder mounting. |  ![Hotend Extruder Tapping](/Images/Assembly/holder_tap_3x_m3.PNG "Extruder M3 Threads") |
+| Finally, tap four M2.5 holes in the *Hotend Mount* as indicated for fan mounting. | ![Hotend Fan Tapping](/Images/Assembly/holder_tap_4x_m2_5.PNG "Hotend Fan Tapped Holes")  |
