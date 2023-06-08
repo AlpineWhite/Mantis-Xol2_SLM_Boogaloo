@@ -38,22 +38,22 @@ This toolhead might require other modifications to retain full functionality of 
 |----|-|--|
 |Rapido|1|
 |Sherpa Mini|1|CNC optional, but rigider-er-er|
-|M2 Tap|1|
+|M2 Tap|1|[Use the tapered taps](https://www.amazon.com/gp/product/B07WGS6T3N) and WD-40 as lube|
 |M2.5 Tap|1|
 |M3 Tap|1|
 |4010 24v blower fans|2|Add Polulu 3796 if you want the fancy 12v Deltas|
 |2510 24v axial fan|1|
-|M2x8 SHCS|2|
-|M2x12 SHCS|4|
-|M2x6 SHCS|2|For Belt Pre-tension (MGN9 Version)|
-|M2x20 SHCS|2|
+|M2x8 SHCS|4|
+|M2x12 SHCS|9|4 For Probe Mounts, 4 for fans, 1 for endstop|
+|M2x6 SHCS|2|For Belt Pre-tension (optional)|
 |M2.5x20 SHCS|4|For Cooling Fan|
-|M2.5x8 90Deg CS|3|For Rapido mount|
-|M3x6 BHCS|2|For Mount<->Carriage Lower Fasteners|
-|M3x6 SHCS|1|For Sherpa K-mount|Up to 6 more for top and bottom attachments|
-|M3x10 90Deg CS|4|For carriage to block mounting|
-|M3x20 SHCS|4|Sharpa<->Hotend Mount and Hotend<->Carriage upper mount|
+|M2.5x8 90Deg FHCS|4|For Rapido mount|
+|M3x8 BHCS|2|For Mount<->Carriage Lower Fasteners|
+|M3x6 SHCS|1|For Sherpa K-mount|
+|M3x10 90Deg FHCS|4|For carriage to rail mounting|
+|M3x20 SHCS|4|Sherpa<->Hotend Mount and Hotend<->Carriage upper mount|
 |D2F-5L Microswitch|1-2|
+|M3x20-22 90Deg FHCS|2| For Hotend upper mounts on V1.1. 22mm gives 5mm of thread engagement|
 |ZIP TIES||
 
 
