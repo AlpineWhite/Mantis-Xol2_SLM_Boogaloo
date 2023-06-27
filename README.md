@@ -69,3 +69,6 @@ This toolhead might require other modifications to retain full functionality of 
 [AnnexEngineering](https://github.com/Annex-Engineering) for the Sherpa Mini and Double Folded Ascender extruders, and the K3 that influenced the air management of the ducts. And also for giving access to an early revision of the new DFA so it could be adapted for this toolhead.<br/>
 [Clee](https://github.com/clee), you know what you did.  
 [Takuya](https://github.com/T4KUUY4)... just added the 36mm SB2040 mount
+
+
+Like my work? Want to support the cause?  I created a donation link because somebody asked how they can donate to me. [Here it is.](https://bmc.link/deadwood)
