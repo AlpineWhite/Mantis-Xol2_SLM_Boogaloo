@@ -12,14 +12,16 @@ https://discord.gg/armchairengineeringsux
 [Assembly / Tapping](https://github.com/AlpineWhite/Mantis-Xol2_SLM_Boogaloo/blob/main/Assembly.md)<br/>
 [DragNet Bending Jig Usage](https://github.com/AlpineWhite/Mantis-Xol2_SLM_Boogaloo/tree/main/STL/Nets/DragNet/Bending%20Jig)<br/>
 [RapidNet Bending Jig Usage](https://github.com/AlpineWhite/Mantis-Xol2_SLM_Boogaloo/tree/main/STL/Nets/RapidNet)<br/>
-RapidNet Grinding Jig Usage (For the Rapido Hotend)<br/>
-Probemounts<br/>
+[RapidNet Grinding Jig Usage](https://github.com/AlpineWhite/Mantis-Xol2_SLM_Boogaloo/blob/main/STL/Nets/RapidNet/Grinding%20Jig/Readme.md) (For the Rapido Hotend)<br/>
+[Probemounts](https://github.com/AlpineWhite/Mantis-Xol2_SLM_Boogaloo/tree/main/STL/XOL2%20SLiM%20V1.1%20%2B%20Probes/Probemounts)<br/>
 [My CNC Goals / How to Support Development](https://www.buymeacoffee.com/deadwood/first-post-first-steps)
 
-## New Features for SLMantis Xol 2
+## New Features for SLiMantis Xol 2
  - Cooler: Think Xol is ugly? This is not any better. But the entire hotend is now a heatsink.
  - Metaler: There is so much more metal. All inserts are replaced by tapped holes.
  - Rigid-er-er: Look at all that metal in the all-metal construction.
+ - Supports Rapido, Dragon, Dragon UHF, Dragon+T-Volcano, Red Lizard all on one hotend mount.
+ - Nets are created to attach the bottom of each hotend (except lizard) to the carriage. Nets are 304 stainless with 3d printed bending jigs. 
 
 #### Features:
  - Better airflow than Stealthburner (6-7 CFM through short ducts vs 4.6-5.2 CFM through long ducts)
@@ -27,14 +29,15 @@ Probemounts<br/>
  - Support for Sherpa Mini-pattern extruder mounting.
  - Symmetrical ziptie options.
  - Printed holes are already tap size.
- - Support for Whoppingpochard's Klicky PCB and bacon, but hardpoints on the bottom of the carriage allow for a modular approach to probing.
- - Top hardpoints and pockets allow development of custom tophats for your toolhead. Umbilical? Sure. Mantis tophat to bolt more stuff to your toolhead?   Sure.
- - Cross-compatibility with most of the XOL2 printed parts. YOu can combine metal hotend mount with a printed carriage, vice-versa, use printed ducts, printed faceplates, LED holder, nozzle camer amounts. 
- - X axis microswitch in either direction (min/max/both).
+ - Support for Whoppingpochard's Klicky PCB, OG Klicky, and bacon; but hardpoints on the bottom of the carriage allow for a modular approach to probing.
+ - Top hardpoints allow development of custom tophats for your toolhead. Umbilical? Sure. Mantis tophat to bolt more stuff to your toolhead? Sure. Extruder apater plates which tie the carriage and hotend mount together? Sure.
+ - Cross-compatibility with most of the XOL2 printed parts. You can combine metal hotend mount with a printed carriage, vice-versa, use printed ducts, printed faceplates, LED holder, nozzle camera mounts, etc. 
+ - X axis microswitch in either direction (min/max/both except Kevin hates you for wanting to know your actual axis limits).
  
 #### Future Development (No ETA):
  - MGN12 Carriage
- - Unnamed things because we have not discovered what else we may want to paste onto this. 
+ - Unnamed things because we have not discovered what else we may want to paste onto this.
+ - Fancy ikon rail carriage support 
 
 
 ## Build Notes:
