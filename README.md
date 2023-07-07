@@ -8,6 +8,13 @@ This was further pushed into the territory of abomination By deadwood83 who deci
 
 https://discord.gg/armchairengineeringsux
 
+Quick Links:
+Assembly / Tapping
+[DragNet Bending Jig Usage](https://github.com/AlpineWhite/Mantis-Xol2_SLM_Boogaloo/tree/main/STL/Nets/DragNet/Bending%20Jig)
+[RapidNet Bending Jig Usage](https://github.com/AlpineWhite/Mantis-Xol2_SLM_Boogaloo/tree/main/STL/Nets/RapidNet)
+RapidNet Grinding Jig Usage (For the Rapido Hotend)
+Probemounts
+
 ## New Features for SLMantis Xol 2
  - Cooler: Think Xol is ugly? This is not any better. But the entire hotend is now a heatsink.
  - Metaler: There is so much more metal. All inserts are replaced by tapped holes.
