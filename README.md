@@ -8,6 +8,14 @@ This was further pushed into the territory of abomination By deadwood83 who deci
 
 https://discord.gg/armchairengineeringsux
 
+### Quick Links:
+[Assembly / Tapping](https://github.com/AlpineWhite/Mantis-Xol2_SLM_Boogaloo/blob/main/Assembly.md)<br/>
+[DragNet Bending Jig Usage](https://github.com/AlpineWhite/Mantis-Xol2_SLM_Boogaloo/tree/main/STL/Nets/DragNet/Bending%20Jig)<br/>
+[RapidNet Bending Jig Usage](https://github.com/AlpineWhite/Mantis-Xol2_SLM_Boogaloo/tree/main/STL/Nets/RapidNet)<br/>
+RapidNet Grinding Jig Usage (For the Rapido Hotend)<br/>
+Probemounts<br/>
+[My CNC Goals / How to Support Development](https://www.buymeacoffee.com/deadwood/first-post-first-steps)
+
 ## New Features for SLMantis Xol 2
  - Cooler: Think Xol is ugly? This is not any better. But the entire hotend is now a heatsink.
  - Metaler: There is so much more metal. All inserts are replaced by tapped holes.
@@ -43,7 +51,9 @@ This toolhead might require other modifications to retain full functionality of 
 |M3 Tap|1|
 |4010 24v blower fans|2|Add Polulu 3796 if you want the fancy 12v Deltas|
 |2510 24v axial fan|1|
-|M2x8 SHCS|4|
+|M2x8 SHCS|6|
+|M2x4 FHCS|2| Only for DragNet|
+|M1.6 Low-Profile Nuts|2|Only for DragNet with T-Volcano|
 |M2x12 SHCS|9|4 For Probe Mounts, 4 for fans, 1 for endstop|
 |M2x6 SHCS|2|For Belt Pre-tension (optional)|
 |M2.5x20 SHCS|4|For Cooling Fan|
