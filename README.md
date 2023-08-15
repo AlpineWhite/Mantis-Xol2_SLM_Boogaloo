@@ -12,7 +12,7 @@ https://discord.gg/armchairengineeringsux
 [Assembly / Tapping](https://github.com/AlpineWhite/Mantis-Xol2_SLM_Boogaloo/blob/main/Assembly.md)<br/>
 [DragNet Bending Jig Usage](https://github.com/AlpineWhite/Mantis-Xol2_SLM_Boogaloo/tree/main/STL/Nets/DragNet/Bending%20Jig)<br/>
 [RapidNet Bending Jig Usage](https://github.com/AlpineWhite/Mantis-Xol2_SLM_Boogaloo/tree/main/STL/Nets/RapidNet)<br/>
-[RapidNet Grinding Jig Usage](https://github.com/AlpineWhite/Mantis-Xol2_SLM_Boogaloo/blob/main/STL/Nets/RapidNet/Grinding%20Jig/Readme.md) (For the Rapido Hotend)<br/>
+[RapidNet Grinding Jig Usage](https://github.com/AlpineWhite/Mantis-Xol2_SLM_Boogaloo/tree/main/STL/Nets/RapidNet/Grinding%20Jig) (For the Rapido Hotend)<br/>
 [Probemounts](https://github.com/AlpineWhite/Mantis-Xol2_SLM_Boogaloo/tree/main/STL/XOL2%20SLiM%20V1.1%20%2B%20Probes/Probemounts)<br/>
 [My CNC Goals / How to Support Development](https://www.buymeacoffee.com/deadwood/first-post-first-steps)
 
