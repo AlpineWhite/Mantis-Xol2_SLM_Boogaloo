@@ -1,6 +1,6 @@
 # Assembly of YOUR NEW SLMantis Xol 2 Toolhead
 
-For printed parts, please visit the Armchair Enginnering Xol2 Repo: https://github.com/Armchair-Engineering/Mantis-Xol/tree/main/STL/Xol%202
+For printed parts other than [Probemounts](https://github.com/AlpineWhite/Mantis-Xol2_SLM_Boogaloo/tree/main/STL/XOL2%20SLiM%20V1.1%20%2B%20Probes/Probemounts), please visit the Armchair Enginnering Xol2 Repo: https://github.com/Armchair-Engineering/Mantis-Xol/tree/main/STL/Xol%202
 
 | Instruction |   |
 | ------------ | ------------ |
