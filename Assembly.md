@@ -1,5 +1,7 @@
 # Assembly of YOUR NEW SLMantis Xol 2 Toolhead
 
+For printed parts, please visit the Armchair Enginnering Xol2 Repo: https://github.com/Armchair-Engineering/Mantis-Xol/tree/main/STL/Xol%202
+
 | Instruction |   |
 | ------------ | ------------ |
 | Tap six M2 holes in the *Carriage* as indicated. The bottom four are for probe mounting and the rear two are for microswitches.  | ![Carriage M2 Holes](/Images/Assembly/carriage_tap6x_m2.PNG "Carriage M2 Tapped Holes")  |
