@@ -62,9 +62,9 @@ This toolhead might require other modifications to retain full functionality of 
 |M2.5x20 SHCS|4|For Cooling Fan|
 |M2.5x8 90Deg FHCS|4|For Rapido mount|
 |M3x8 BHCS|2|For Mount<->Carriage Lower Fasteners|
-|M3x6 SHCS|1|For Sherpa K-mount|
+|M3x6 BHCS|1|For Sherpa K-mount|
 |M3x10 90Deg FHCS|4|For carriage to rail mounting|
-|M3x20 SHCS|4|Sherpa<->Hotend Mount and Hotend<->Carriage upper mount|
+|M3x20-22 FHCS|4|Sherpa<->Hotend Mount and Hotend<->Carriage upper mount|
 |D2F-5L Microswitch|1-2|
 |M3x20-22 90Deg FHCS|2| For Hotend upper mounts on V1.1. 22mm gives 5mm of thread engagement. 20mm will work for both designs, just 22mm is slightly better for V1.1|
 |ZIP TIES||
