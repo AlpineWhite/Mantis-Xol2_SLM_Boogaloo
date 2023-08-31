@@ -1,5 +1,5 @@
 # RapidNet Bending Jig Usage
-
+Print all parts at 100% infill.
 | Instruction |   |
 | ------------ | ------------ |
 | Insert an M3 heatsert into the clamping piece. This will interface with an M3x12SHCS.  | ![Clamp Heatsert](/Images/Assembly/RapidNet_bending/Step1.PNG "Heatsert Installation")  |
