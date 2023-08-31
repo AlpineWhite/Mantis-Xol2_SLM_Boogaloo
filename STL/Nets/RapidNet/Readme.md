@@ -1,5 +1,6 @@
 # RapidNet Bending Jig Usage
 Print all parts at 100% infill.
+All parts are in 'real' dimensions. You may need to scale 1% for shrinkage.
 | Instruction |   |
 | ------------ | ------------ |
 | Insert teo M3 heatserts into the clamping piece. This will interface with two M3x12SHCS.  | ![Clamp Heatsert](/Images/Assembly/RapidNet_bending/Step1.PNG "Heatsert Installation")  |
